@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hello GitHub Fans 👋
 [![博客搭建交流群](https://img.shields.io/badge/个人邮箱-email_lihao@163.com-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 ---
-<img align="right" alt="GIF" src="https://pic2.zhimg.com/v2-a02b245e2117bb3faff9cc7911a0868f_r.jpg?source=1940ef5c" />
+<img align="right" alt="GIF" width="300"  src="https://pic2.zhimg.com/v2-a02b245e2117bb3faff9cc7911a0868f_r.jpg?source=1940ef5c" />
 
 ### I'm Siwei Zhou
 
