@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 软件工程本科学生开源爱好者。
 - 🌱 目前工作在中国河北.
-- ⭐ You may like [DormitoryManage](https://github.com/ha-heihei/DormitoryManage) 、[Bookkeeping](https://github.com/ha-heihei/Bookkeeping) 、or [WebPenetrationTools](https://github.com/ha-heihei/WebPenetrationTools)
+- ⭐ 你可能喜欢 [DormitoryManage](https://github.com/ha-heihei/DormitoryManage) 、[Bookkeeping](https://github.com/ha-heihei/Bookkeeping) 、or [WebPenetrationTools](https://github.com/ha-heihei/WebPenetrationTools)
 - ⚡ 兴趣爱好: 数据分析、人工智能、微服务📊
 
 ### 🛠 技术栈 | Tech Stack
